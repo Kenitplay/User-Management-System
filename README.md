@@ -22,7 +22,6 @@ This is a Java desktop application that allows you to manage user information us
 - Java (JDK 8 or higher)
 - MySQL (XAMPP)
 - JDBC (MySQL Connector/J)
-- Console-based or Swing GUI (depends on your implementation)
 
 ---
 
